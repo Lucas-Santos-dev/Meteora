@@ -4,4 +4,26 @@
 
 .divs-facilidades{
     width: 325px;
+    color: #DAFF01;
+}
+
+.verMais {
+    background-color: #9353FF;
+    color: #FFFFFF;
+    border: none
+}
+
+.bg-lilas {
+    background-color: #9353FF;
+    text-align: center;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
 }
